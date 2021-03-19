@@ -1,0 +1,17 @@
+{
+  "providerName": "Electricity Vietnam (EVN)",
+  "customerName": "Nguyen Thi Cung",
+  "customerAddress": "K 177/1Cu Chinh Lan",
+  "bills": [
+    {
+      "id": "50",
+      "period": "01/2021",
+      "amount": "100000"
+    },
+    {
+      "id": "51",
+      "period": "02/2021",
+      "amount": "90000"
+    }
+  ]
+}
